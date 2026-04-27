@@ -1,0 +1,34 @@
+name: Selenium Automation Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1 — Checkout code
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2 — Setup Java
+      - name: Setup Java
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      # Step 3 — Setup Chrome
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@latest
+
+      # Step 4 — Run Tests with Secrets as Env Variables
+      - name: Run Selenium Tests
+        env:
+          PARA_BANK_USERNAME: ${{ secrets.PARA_BANK_USERNAME }}   # ✅ GitHub secret
+          PARA_BANK_PASSWORD: ${{ secrets.PARAommp_BANK_PASSWORD }}   # ✅ GitHub secret
+        run: mvn clean test

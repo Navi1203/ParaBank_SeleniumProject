@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="OFF">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level - %msg%n"/>
+        </Console>
+        <File name="FileLogger" fileName="logs/practice.log" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level - %msg%n"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <!-- Suppress Selenium internal logs -->
+        <Logger name="org.openqa.selenium" level="OFF"/>
+
+        <!-- Suppress WebDriver manager logs -->
+        <Logger name="io.github.bonigarcia" level="OFF"/>
+
+        <!-- Suppress Apache HTTP logs -->
+        <Logger name="org.apache.http" level="OFF"/>
+
+        <!-- Suppress Cucumber logs -->
+        <Logger name="io.cucumber" level="OFF"/>
+
+        <!-- Your framework logs — keep INFO -->
+        <Logger name="com.practice" level="INFO"/>
+
+        <Root level="OFF">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileLogger"/>
+        </Root>
+    </Loggers>
+</Configuration>
