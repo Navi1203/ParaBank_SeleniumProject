@@ -33,5 +33,5 @@ jobs:
       - name: Run Selenium Tests
         env:
           PARA_BANK_USERNAME: ${{ secrets.PARA_BANK_USERNAME }}   # ✅ GitHub secret
-          PARA_BANK_PASSWORD: ${{ secrets.PARAommp_BANK_PASSWORD }}   # ✅ GitHub secret
+          PARA_BANK_PASSWORD: ${{ secrets.PARA_BANK_PASSWORD }}   # ✅ GitHub secret
         run: mvn clean test
