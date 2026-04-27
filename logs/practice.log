@@ -1,0 +1,60 @@
+2026-04-27 19:13:10 [TestNG-PoolService-1] INFO  - ✅ 🏁 Test Finished
+2026-04-27 19:13:10 [TestNG-PoolService-2] INFO  - ✅ 🏁 Test Finished
+2026-04-27 19:13:10 [TestNG-PoolService-0] INFO  - ✅ 🏁 Test Finished
+2026-04-27 19:13:10 [TestNG-PoolService-2] ERROR - ❌ Error in writing Allure Test Details
+2026-04-27 19:13:10 [TestNG-PoolService-0] ERROR - ❌ Error in writing Allure Test Details
+2026-04-27 19:13:10 [TestNG-PoolService-1] ERROR - ❌ Error in writing Allure Test Details
+2026-04-27 19:14:09 [TestNG-PoolService-1] INFO  - ✅ 🏁 Test Finished
+2026-04-27 19:14:09 [TestNG-PoolService-2] INFO  - ✅ 🏁 Test Finished
+2026-04-27 19:14:09 [TestNG-PoolService-0] INFO  - ✅ 🏁 Test Finished
+2026-04-27 19:14:09 [TestNG-PoolService-1] ERROR - ❌ Error in writing Allure Test Details
+2026-04-27 19:14:09 [TestNG-PoolService-2] ERROR - ❌ Error in writing Allure Test Details
+2026-04-27 19:14:09 [TestNG-PoolService-0] ERROR - ❌ Error in writing Allure Test Details
+2026-04-27 19:22:24 [TestNG-PoolService-0] INFO  - ✅ 🌐 Browser: Chrome
+2026-04-27 19:22:24 [TestNG-PoolService-1] INFO  - ✅ 🌐 Browser: Chrome
+2026-04-27 19:22:24 [TestNG-PoolService-2] INFO  - ✅ 🌐 Browser: Chrome
+2026-04-27 19:22:24 [TestNG-PoolService-0] INFO  - ✅ ⚙️ Execution Mode: local
+2026-04-27 19:22:24 [TestNG-PoolService-1] INFO  - ✅ ⚙️ Execution Mode: local
+2026-04-27 19:22:24 [TestNG-PoolService-2] INFO  - ✅ ⚙️ Execution Mode: local
+2026-04-27 19:23:40 [TestNG-PoolService-1] INFO  - ✅ 🚀 Test Started
+2026-04-27 19:23:40 [TestNG-PoolService-2] INFO  - ✅ 🚀 Test Started
+2026-04-27 19:23:41 [TestNG-PoolService-0] INFO  - ✅ 🚀 Test Started
+2026-04-27 19:23:42 [TestNG-PoolService-1] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298022662.png
+2026-04-27 19:23:43 [TestNG-PoolService-0] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298023479.png
+2026-04-27 19:23:43 [TestNG-PoolService-1] INFO  - ✅ Entered Password Successfully
+2026-04-27 19:23:43 [TestNG-PoolService-1] INFO  - ✅ Username entered successfully
+2026-04-27 19:23:43 [TestNG-PoolService-0] INFO  - ✅ Entered Password Successfully
+2026-04-27 19:23:43 [TestNG-PoolService-0] INFO  - ✅ Username entered successfully
+2026-04-27 19:23:43 [TestNG-PoolService-2] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298023640.png
+2026-04-27 19:23:43 [TestNG-PoolService-1] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298023732.png
+2026-04-27 19:23:43 [TestNG-PoolService-0] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298023762.png
+2026-04-27 19:23:43 [TestNG-PoolService-2] INFO  - ✅ Entered Password Successfully
+2026-04-27 19:23:43 [TestNG-PoolService-2] INFO  - ✅ Username entered successfully
+2026-04-27 19:23:43 [TestNG-PoolService-1] INFO  - ✅ Entered Password Successfully
+2026-04-27 19:23:43 [TestNG-PoolService-1] INFO  - ✅ Password entered successfully
+2026-04-27 19:23:44 [TestNG-PoolService-0] INFO  - ✅ Entered Password Successfully
+2026-04-27 19:23:44 [TestNG-PoolService-0] INFO  - ✅ Password entered successfully
+2026-04-27 19:23:44 [TestNG-PoolService-2] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298023947.png
+2026-04-27 19:23:44 [TestNG-PoolService-1] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298023991.png
+2026-04-27 19:23:44 [TestNG-PoolService-0] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298024013.png
+2026-04-27 19:23:44 [TestNG-PoolService-2] INFO  - ✅ Entered Password Successfully
+2026-04-27 19:23:44 [TestNG-PoolService-2] INFO  - ✅ Password entered successfully
+2026-04-27 19:23:44 [TestNG-PoolService-1] INFO  - ✅ Login button Clicked Successfully
+2026-04-27 19:23:44 [TestNG-PoolService-2] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298024159.png
+2026-04-27 19:23:44 [TestNG-PoolService-1] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298024185.png
+2026-04-27 19:23:54 [TestNG-PoolService-1] ERROR - ❌ Text doesn't contains: Accounts Overview
+2026-04-27 19:23:54 [TestNG-PoolService-1] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298034791.png
+2026-04-27 19:23:54 [TestNG-PoolService-1] INFO  - ✅ 🏁 Test Finished
+2026-04-27 19:23:54 [TestNG-PoolService-1] ERROR - ❌ Error in writing Allure Test Details
+2026-04-27 19:23:55 [TestNG-PoolService-2] INFO  - ✅ Login button Clicked Successfully
+2026-04-27 19:23:55 [TestNG-PoolService-0] INFO  - ✅ Login button Clicked Successfully
+2026-04-27 19:23:55 [TestNG-PoolService-2] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298035530.png
+2026-04-27 19:23:56 [TestNG-PoolService-0] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298035549.png
+2026-04-27 19:24:06 [TestNG-PoolService-2] ERROR - ❌ Text doesn't contains: Accounts Overview
+2026-04-27 19:24:06 [TestNG-PoolService-2] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298046611.png
+2026-04-27 19:24:06 [TestNG-PoolService-2] INFO  - ✅ 🏁 Test Finished
+2026-04-27 19:24:06 [TestNG-PoolService-2] ERROR - ❌ Error in writing Allure Test Details
+2026-04-27 19:24:16 [TestNG-PoolService-0] ERROR - ❌ Text doesn't contains: Accounts Overview
+2026-04-27 19:24:16 [TestNG-PoolService-0] INFO  - ✅ 📸 Screenshot saved: src/test/resources/screenshots/27-04-2026/Verify_user_able_to_login_to_the_para_bank_with_valid_credentials/1777298056616.png
+2026-04-27 19:24:16 [TestNG-PoolService-0] INFO  - ✅ 🏁 Test Finished
+2026-04-27 19:24:16 [TestNG-PoolService-0] ERROR - ❌ Error in writing Allure Test Details
