@@ -1,0 +1,21 @@
+<suite name="Para Bank Regression Suite" parallel="tests" thread-count="3">
+
+    <!-- Chrome Test -->
+    <test name="Para Bank Login Test - Chrome">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="executionMode" value="grid"/>
+        <classes>
+            <class name="com.practice.runner.TestRunner"/>
+        </classes>
+    </test>
+
+    <!-- Safari Test -->
+    <test name="Para Bank Login Test - Safari">
+        <parameter name="browser" value="safari"/>
+        <parameter name="executionMode" value="grid"/>
+        <classes>
+            <class name="com.practice.runner.TestRunner"/>
+        </classes>
+    </test>
+
+</suite>
